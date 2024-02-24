@@ -8,11 +8,24 @@ Public
 private 
 Hybrid
 
-IAM 
+**IAM :**
 What is IAM
 Identity access management which project the security of the user access persmissions to assigning and maitining IAM policies 
 
 What is tools in AWS
 IAM credentials report - Account level
 IAM Access Advisor - User level
+
+
+
+**Amazon EC2:**
+- EC2 is one of the mosty popular of AWS offering
+- EC2 = Elastic Compute Cloud = Infrastructure as a Service
+- It mainly consists in the capability of :
+   - Renting Virtual machines (EC2)
+   - Storing Data on Virtual Drives (EBS)
+   - Distribiuted Load across machines (ELB)
+   - Scaling the services using an auto-scaling group (ASG)
+
+  Knowing EC2 is fundamental to udnerstand how the clod works
 
